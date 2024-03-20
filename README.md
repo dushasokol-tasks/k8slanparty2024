@@ -302,4 +302,8 @@ echo YW1lIjoiRkxBRyIsInZhbHVlIjoid2l6X2s4c19sYW5fcGFydHl7eW91LWFyZS1rOHMtbmV0LW1
 ame":"FLAG","value":"wiz_k8s_lan_party{you-are-k8s-net-master-with-great-power-to-mutate-your-way-to-victory}"}]}, {"path":"/metadata/annotations","op":"add","value":{"policies.kyverno.io/last-applied-patches":"inject-env-vars.apply-flag-to-env.kyverno.io: added /spec/containers/0/env\n"}}]
 ```
 
-И это все, в аттаче сертификат. Всем привет! ))
+И это всё, вот сертификат. 
+
+![uE8sswHQ.png](https://raw.githubusercontent.com/dushasokol-tasks/k8slanparty2024/main/uE8sswHQ.png)
+
+Всем привет! ))
