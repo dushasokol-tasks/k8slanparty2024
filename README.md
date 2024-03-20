@@ -1,3 +1,5 @@
+## My solution for `https://www.k8slanparty.com/` challenge.
+
 # 1 DNSing with the stars
 
 Ссылка задания ведёт на интересную страницу с опросом DNS кластера. Но внутренний DNS в поде ничего не разрешает:
